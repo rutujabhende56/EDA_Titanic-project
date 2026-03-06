@@ -21,7 +21,11 @@ Seaborn
 Jupyter Notebook
 
 ## Key Findings
+
 Females had higher survival rate.
+
 1st class passesngers survived more.
+
 Fare and passesnger class affected survival.
+
 Age distribution shows majority between 20-40.
