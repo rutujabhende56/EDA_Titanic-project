@@ -7,12 +7,19 @@ Statistical Analysis
 Data Visualization 
 Pattern Recognition
 ## Tools Used
+
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 Jupyter Notebook
+
 ## Key Findings
 Females had higher survival rate.
 1st class passesngers survived more.
